@@ -7,7 +7,7 @@ function TopBar() {
         <div className='container flex flex-row justify-between m-auto '>
             {/** 1st rows */}
             <div>
-                Email: info@saraskitchen.com
+                Email: info@saras-kitchen.com
             </div>
             <div>
                 Phone: +92 312 262 9392
