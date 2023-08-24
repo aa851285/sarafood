@@ -1,13 +1,14 @@
 import React from "react";
 import Image from "next/image";
 import headSliderImg from "./assets/header-img2.webp";
+import HomeMenu from "./components/HomeMenu";
 
 export default function Home() {
   return (
     <div className="relative items-start content-center Header Slider">
       <Image src={headSliderImg} className="w-full h-[700px]" />
 
-      <div className="absolute flex flex-row justify-between w-4/5 p-4 text-3xl text-white transform -translate-x-1/2 bg-black bg-opacity-50 rounded-lg top-1/3 left-1/2">
+      <div className="absolute flex flex-row justify-between w-4/5 p-4 text-3xl text-white transform -translate-x-1/2 bg-black bg-opacity-50 rounded-lg xl:top-32 2xl:top-31 top-1 sm:top-32 lg:top-32 left-1/2">
         {/**inside row */}
         <div className="items-start content-start space-y-5">
           <h1 className="text-[25px] font-poppins">
@@ -26,8 +27,12 @@ export default function Home() {
             passed down through generations.
           </p>
         </div>
+
+       
    
       </div>
+
+      <HomeMenu />
     </div>
   );
 }

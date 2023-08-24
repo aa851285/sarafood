@@ -1,0 +1,9 @@
+# Pull latest changes
+git pull origin main
+
+# Make and commit local changes
+git add .
+git commit -m "Your commit message"
+
+# Push changes to remote
+git push origin main

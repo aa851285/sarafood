@@ -8,7 +8,7 @@ function Header() {
         <h1 className="text-5xl font-semibold ">Sara's Kitchen.</h1>
       </div>
       <div>
-        <ul className="flex flex-row space-x-4">
+        <ul className="flex flex-col space-x-4 sm:flex-row lg:flex-row xl:flex-row 2xl:flex-row">
           <li>Home</li>
           <li>About Us</li>
           <li>Menu</li>
