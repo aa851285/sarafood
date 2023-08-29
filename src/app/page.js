@@ -19,7 +19,7 @@ export default function Home() {
     <h1 className="text-[80px] font-bold leading-tight font-jameel w-1/2">
         Where Quality Meets Home-Cooked <br></br>Perfection!{" "}
       </h1>
-      <button className='p-2 bg-[#f8c56a] text-gray-900 text-sm'>Order Now</button>
+      <button className='p-2 text-sm text-gray-900 bg-red-700'>Order Now</button>
     </div>
       
       </div>
