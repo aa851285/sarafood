@@ -5,7 +5,7 @@ import {BiSolidMap} from 'react-icons/bi'
 
 function TopBar() {
   return (
-    <div className="p-2 bg-red-900">
+    <div className="p-2 bg-[#682d0b]">
       {/** Top Bar Section div */}
       <div className="container flex flex-col items-center content-center justify-between m-auto sm:flex-row xl:flex-row 2xl:flex-row lg:flex-row">
         <div className="flex flex-col items-center space-x-2 sm:flex-row lg:flex-row xl:flex-row 2xl:flex-row">

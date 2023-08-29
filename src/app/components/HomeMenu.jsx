@@ -16,6 +16,7 @@ function HomeMenu() {
                 <Image src={biryaniImg} className="rounded-md w-96" />
                 <h1 className='text-lg font-semibold'>Chicken Biryani</h1>
                 <p>Karachi famous biryani 100% Homemade cruisine.</p>
+                <button className='p-2 bg-red-500'>Order Now</button>
              
             </div>
             <div>
@@ -23,6 +24,7 @@ function HomeMenu() {
             <Image src={biryaniImg} className="rounded-md w-96" />
             <h1 className='text-lg font-semibold'>Chicken Biryani</h1>
                 <p>Karachi famous biryani 100% Homemade cruisine.</p>
+                <button className='p-2 bg-red-500'>Order Now</button>
             
             </div>
             <div>
@@ -30,6 +32,7 @@ function HomeMenu() {
             <Image src={biryaniImg} className="rounded-md w-96" />
             <h1 className='text-lg font-semibold'>Chicken Biryani</h1>
                 <p>Karachi famous biryani 100% Homemade cruisine.</p>
+                <button className='p-2 bg-red-500'>Order Now</button>
                
             </div>
         </div>
@@ -41,6 +44,7 @@ function HomeMenu() {
                 <Image src={biryaniImg} className="rounded-md w-96" />
                 <h1 className='text-lg font-semibold'>Chicken Biryani</h1>
                 <p>Karachi famous biryani 100% Homemade cruisine.</p>
+                <button className='p-2 bg-red-500'>Order Now</button>
              
             </div>
             <div>
@@ -48,6 +52,7 @@ function HomeMenu() {
             <Image src={biryaniImg} className="rounded-md w-96" />
             <h1 className='text-lg font-semibold'>Chicken Biryani</h1>
                 <p>Karachi famous biryani 100% Homemade cruisine.</p>
+                <button className='p-2 bg-red-500'>Order Now</button>
             
             </div>
             <div>
@@ -55,6 +60,7 @@ function HomeMenu() {
             <Image src={biryaniImg} className="rounded-md w-96" />
             <h1 className='text-lg font-semibold'>Chicken Biryani</h1>
                 <p>Karachi famous biryani 100% Homemade cruisine.</p>
+                <button className='p-2 bg-red-500'>Order Now</button>
                
             </div>
         </div>
