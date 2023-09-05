@@ -2,6 +2,7 @@ import React from "react";
 import Image from "next/image";
 
 import HomeMenu from "./components/HomeMenu";
+import CallToAction from "./components/CallToAction";
 
 export default function Home() {
   return (
@@ -19,7 +20,7 @@ export default function Home() {
     <h1 className="text-[80px] font-bold leading-tight font-jameel w-1/2">
         Where Quality Meets Home-Cooked <br></br>Perfection!{" "}
       </h1>
-      <button className='p-2 text-sm text-gray-900 bg-red-700'>Order Now</button>
+      <button className='p-2 text-sm text-white bg-red-700'>Order Now</button>
     </div>
       
       </div>
@@ -27,6 +28,7 @@ export default function Home() {
       {/** Ending SLider */}
 
 <HomeMenu />
+<CallToAction />
 
 </div>
   );
