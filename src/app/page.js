@@ -30,6 +30,12 @@ export default function Home() {
 <HomeMenu />
 <CallToAction />
 
+<HomeMenu />
+
+<CallToAction />
+
+<HomeMenu />
+
 </div>
   );
 }

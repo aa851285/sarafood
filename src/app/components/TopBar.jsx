@@ -18,7 +18,7 @@ function TopBar() {
           </div>
           <div className="flex flex-row items-center content-center space-x-1">
             <BsTelephoneFill />
-            <span>+92 312 262 9392</span>
+            <span>+92 300 360 6251</span>
           </div>
         </div>
         <div className="flex flex-row items-center content-center space-x-1 sm:flex-row lg:flex-row xl:flex-row 2xl:flex-row">

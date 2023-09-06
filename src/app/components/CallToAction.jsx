@@ -17,7 +17,7 @@ function CallToAction() {
       }}
     >
       <div className="container flex flex-col items-start content-center p-4 m-auto ">
-        <h1 className="text-3xl">Food is Just a Phone Call Away. Dial Now!</h1>
+        <h1 className="text-3xl" style={{fontFamily:'Dancing Script, cursive'}}>Food is Just a Phone Call Away. Dial Now!</h1>
 
         <div className="flex flex-row content-center p-3 ">
           {/* Rows FOr phone & Button**/}
